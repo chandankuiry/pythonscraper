@@ -1,3 +1,7 @@
+#download beautifulsoup by "pip install BeautifulSoup"
+#Download requests module "pip install requests
+
+
 from bs4 import BeautifulSoup
 import requests
 url =raw_input("enter Url for processing ")
